@@ -262,7 +262,7 @@
   <div class="copyright-wrapper">
     <section class="l-copyright row">
       <div class="copyright columns">
-        &copy; <?php print date('Y') . ' Bayside Associates - ' . t('All rights reserved.'); ?>
+        &copy; <?php print date('Y'); ?>
       </div>
     </section>
   </div>
